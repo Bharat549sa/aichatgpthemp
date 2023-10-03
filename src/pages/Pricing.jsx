@@ -1,6 +1,6 @@
 import '../App.css';
 import axios from 'axios';
-import supabase from '../supabase';
+//import supabase from '../supabase';
 
 function Pricing() {
     const plans = [
